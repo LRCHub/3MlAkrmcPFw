@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Toca toca (Radio Edit)",
+  "base_artist": "Fly Project",
+  "createdAt": "2026-02-15T15:14:17.450362Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Toca Toca (Radio Edit)",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/01_Toca_Toca_(Radio_Edit)_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Toca Toca (radio edit)",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/02_Toca_Toca_(radio_edit)_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Toca toca [Radio Edit]",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/03_Toca_toca_[Radio_Edit]_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Toca Toca - Radio Edit",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/04_Toca_Toca_-_Radio_Edit_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Toca Toca (Radio Edit)",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/05_Toca_Toca_(Radio_Edit)_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Toca toca - Radio Edit",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/06_Toca_toca_-_Radio_Edit_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Toca Toca (Radio Edit)",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/07_Toca_Toca_(Radio_Edit)_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Toca Toca (Radio Edit) - Fly Project",
+      "artist": "linnvfav",
+      "has_synced": true,
+      "path": "select/08_Toca_Toca_(Radio_Edit)_-_Fly_Project_linnvfav.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Toca Toca (Radio Edit)",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/09_Toca_Toca_(Radio_Edit)_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Toca Toca (Radio Edit)",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/10_Toca_Toca_(Radio_Edit)_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Toca Toca (Radio Edit)",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/11_Toca_Toca_(Radio_Edit)_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Toca-Toca (Radio Edit)",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/12_Toca-Toca_(Radio_Edit)_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Toca Toca - Radio Edit",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/13_Toca_Toca_-_Radio_Edit_Fly_Project.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Toca Toca (radio edit)",
+      "artist": "Fly Project",
+      "has_synced": true,
+      "path": "select/14_Toca_Toca_(radio_edit)_Fly_Project.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Toca Toca (Radio Edit)",
+      "artist": "Fly Project",
+      "has_synced": false,
+      "path": "select/pl_01_Toca_Toca_(Radio_Edit)_Fly_Project.txt"
+    }
+  ]
+}
